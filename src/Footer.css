@@ -1,0 +1,11 @@
+.Foot{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Name{
+    font-size: 10px;
+}
